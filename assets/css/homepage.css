@@ -1,11 +1,16 @@
-#grad {
+
+#background{ 
     background-image: linear-gradient(red, purple);
   }
-
+h1 {
+    color: red; font-size:60px
+}
+h2 {
+    color: white; font-size:48px
+}
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
   }
 
-  
