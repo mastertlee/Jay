@@ -1,5 +1,7 @@
-body{ 
+body{
+  height: 125vh; 
   background-image: linear-gradient(red, purple);
+  background-size: cover;
 }
 body{
   margin: 30px
@@ -23,5 +25,5 @@ h1 {
   margin:0 auto;
   margin-top: -45px;
   height:50px;
-  color: black; font: size 50px;
+  color: white; font: size 50px;
 }
