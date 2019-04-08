@@ -3,7 +3,7 @@ body{
     background-image: linear-gradient(red, purple);
   }
 h1 {
-    color: red; font-size:60px
+    color: black; font-size:60px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h2 {
     color: white; font-size:48px
