@@ -1,3 +1,15 @@
+h1 {
+  color:red; font-size:60px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.section {
+  width: 80%;
+  margin:0 auto;
+  margin-top: -45px;
+  height:50px;
+  color: white; font: size 50px;
+}
+
 body{
   height: 125vh; 
   background-image: linear-gradient(red, purple);
@@ -16,14 +28,4 @@ header {
   height: 100px;
 }
 
-h1 {
-  color:red; font-size:60px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
 
-.section {
-  width: 80%;
-  margin:0 auto;
-  margin-top: -45px;
-  height:50px;
-  color: white; font: size 50px;
-}
