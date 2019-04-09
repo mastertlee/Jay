@@ -1,31 +1,50 @@
 header img{
-  height: 80px;
+  height: 200px;
+  margin: 10px;
+}
+
+main img{
+  transform: rotate(270deg);
 }
 
 .section {
-  width: 80%;
-  margin:0 auto;
-  margin-top: -45px;
-  height:50px;
+  width: 32%;
+  margin-left: 100px;
+  margin-top: -120px;
+  height:25px;
   color: white; font: size 50px;
 }
 
 body{
-  height: 125vh; 
-  background-image: linear-gradient(purple, red);
+  height: 150vh; 
+  background-image: linear-gradient(#9D00FF,#FC3535);
   background-size: cover;
 }
 body{
-  margin: 0px
+  margin: 15px
 }
 
 header {
-  background-color: black;
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.6);
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  height: 100px;
+  height: 200px;
+  z-index: 300;
 }
 
+header * {
+  display: inline;
+}
 
+header li{
+  margin: 20px;
+}
+
+header li a{
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+}
