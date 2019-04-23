@@ -1,0 +1,70 @@
+
+.jlogo{
+  height: 120px;
+  margin: 10px;
+  
+}
+
+.jdrawing{
+  transform: rotate(180deg);
+  align-content: left;
+}
+
+body{
+  height: 150vh; 
+  background-image: linear-gradient(purple,red);
+  background-size: cover;
+}
+body{
+  margin: 15px
+}
+
+.section3{
+  margin-top: 75px;
+  color: white;
+  font-size: 14px;
+}
+#page-container {
+  position: relative;
+  min-height: 150vh;
+}
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+button{
+  padding-left: 180px;
+  : 100px;
+}
+
+h2{
+  text-align: center;
+}
+
+footer li a{
+  text-align: center;
+  font-size: 15px;
+}
+
+h5{
+  font-size:25px;
+  color: white;
+}
+
+h1{
+    color: white;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: green !important;
+}
+.aboutpara{
+    font-size: 15px;
+    color: white;
+}
