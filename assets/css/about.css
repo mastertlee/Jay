@@ -21,7 +21,7 @@
   }
   }
 body{
-  height: 160vh; 
+  height: 190vh; 
   background-image: linear-gradient(white,orange);
   background-size: cover;
 }
@@ -77,4 +77,8 @@ h1{
 .aboutpara{
     font-size: 15px;
     color: white;
+}
+
+p{
+  font-size: 15px;
 }
