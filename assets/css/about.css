@@ -6,12 +6,22 @@
 }
 
 .jdrawing{
-  transform: rotate(180deg);
+  transform: rotate(270deg);
   align-content: left;
 }
 
+.jdrawing2{
+  transform: rotate(270deg);
+  align-content: left;
+}
+
+@media (max-width: 40em) {
+  .jdrawing2 {
+  display: none;
+  }
+  }
 body{
-  height: 150vh; 
+  height: 160vh; 
   background-image: linear-gradient(white,orange);
   background-size: cover;
 }
