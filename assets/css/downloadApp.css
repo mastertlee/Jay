@@ -12,7 +12,7 @@
   
   body{
     height: 160vh; 
-    background-image: linear-gradient(white,blue);
+    background-image: linear-gradient(to right, purple,cyan);
     background-size: cover;
   }
   body{

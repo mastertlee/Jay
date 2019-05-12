@@ -22,7 +22,7 @@
   }
 body{
   height: 190vh; 
-  background-image: linear-gradient(white,orange);
+  background-image: linear-gradient(to right, purple,cyan);
   background-size: cover;
 }
 body{

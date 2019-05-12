@@ -11,7 +11,7 @@
 
 body{
   height: 150vh; 
-  background-image: linear-gradient(white,crimson);
+  background-image: linear-gradient(to right, purple,cyan);
   background-size: cover;
 }
 body{
